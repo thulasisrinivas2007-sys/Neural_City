@@ -1,0 +1,7 @@
+{
+  "model_type": "Ensemble Random Forest & Diurnal Harmonics",
+  "r2_score": 0.956,
+  "rmse": 0.0397,
+  "mae": 0.0314,
+  "samples": 6000
+}

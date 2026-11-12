@@ -1,0 +1,6 @@
+{
+  "name": "NEURAL CITY – AI Urban Infrastructure Digital Twin",
+  "description": "AI-Powered Urban Infrastructure Digital Twin: real-time IoT monitoring, AI traffic & flood forecasting, GIS geospatial analysis, emergency routing, and multi-variable what-if simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

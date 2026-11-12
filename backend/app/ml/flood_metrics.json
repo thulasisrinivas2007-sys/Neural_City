@@ -1,0 +1,7 @@
+{
+  "model_type": "Hydrological Topographic Ensemble Classifier",
+  "roc_auc": 0.946,
+  "f1_score": 0.912,
+  "accuracy": 0.934,
+  "sample_count": 5000
+}
